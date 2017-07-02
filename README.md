@@ -8,6 +8,8 @@ Given a number of the discussions I've had with friends and students, I thought 
 Cheers,
 Jon (aka StandardHumanUnit)
 
+
+
 **General Programming**
 
 EdX, [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - If you want a solid introduction to the computing concepts that will underlie all these languages, then this is the place for you.  The best programming course I’ve ever seen.
