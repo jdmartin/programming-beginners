@@ -66,7 +66,7 @@ WebMonkey, [Getting Started with jQuery](http://www.webmonkey.com/2010/02/get_st
 
 [jQuery Fundamentals](http://jqfundamentals.com/legacy/) - With usage examples.
 
-[MEAN Stack Tutorial](https://thinkster.io/mean-stack-tutorial) - Already know some JS?  This is the JavaScript platform for you!  (Getting more and more common, actually…)
+[MEAN Stack Tutorial](https://thinkster.io/mean-stack-tutorial) - Already know some JS?  This might be the JavaScript platform for you!  (Getting more and more common, actually…)
 
 [React Tutorial](https://facebook.github.io/react/) - You may also want to learn React (via FB), which is used to build User Interfaces and Applications.
 
