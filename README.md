@@ -12,7 +12,7 @@ Jon (aka StandardHumanUnit)
 
 EdX, [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - If you want a solid introduction to the computing concepts that will underlie all these languages, then this is the place for you.  The best programming course I’ve ever seen.
 
-[Programming Historian](http://programminghistorian.org/lessons/) - Generally well constructed collection of articles on specific programming tasks and environments relevant to DH work.
+[Programming Historian](http://programminghistorian.org/lessons/) - Generally well constructed collection of articles on specific programming tasks and environments relevant to Digital Humanities work.
 
 EdX, [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0#.U9sOzIBdVd8) - So much of programming derives from C.  So does Linux.  Not a coincidence… Come to the Dark Side, we have cookies.
 
