@@ -3,13 +3,10 @@ A list of resources for learning programming in various languages (work in progr
 
 Hi Everyone,
 
-Given a number of the discussions I had with some of you, I thought I would draw up this list of programming resources for use in your future study.  I’ll likely revisit it from time to time, and I would love to include your suggestions as well.  As ever, you can reach me on Twitter (@songsthatsaved). 
-
-Lovely seeing all of you, and happy travels!  (If you find yourself in the UK, you’ve got a friend in Cambridge…)
+Given a number of the discussions I've had with friends and students, I thought I would draw up this list of programming resources for use in your future study.  It's really just a beginning, and I'm sure it can use lots of work. As such, I would love to include your suggestions as well.  As ever, you can reach me on Twitter ([@songsthatsaved](https://twitter.com/songsthatsaved)). 
 
 Cheers,
-
-Jon
+Jon (aka StandardHumanUnit)
 
 **General Programming**
 
