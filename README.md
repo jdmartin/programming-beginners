@@ -3,24 +3,16 @@ A list of resources for learning programming in various languages (work in progr
 
 Hi Everyone,
 
-Given a number of the discussions I've had with friends and students, I thought I would draw up this list of programming resources for use in your future study.  It's really just a beginning, and I'm sure it can use lots of work. As such, I would love to include your suggestions as well.  As ever, you can reach me on Twitter ([@songsthatsaved](https://twitter.com/songsthatsaved)). 
+Given a number of the discussions I've had with friends and students, I thought I would draw up this list of programming resources for use in your future study.  It's really just a beginning, and I'm sure it can use lots of work.  I've broken each topic or language into its own .md file for ease of organizing, and the links to each are below.  I would love to include your suggestions as well.  As ever, you can reach me on Twitter ([@songsthatsaved](https://twitter.com/songsthatsaved)).
 
 Cheers,
 Jon (aka StandardHumanUnit)
 
 
 
-**General Programming**
+[General Programming](https://github.com/jdmartin/programming-beginners/blob/master/general.md)
 
-EdX, [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - If you want a solid introduction to the computing concepts that will underlie all these languages, then this is the place for you.  The best programming course I’ve ever seen.
 
-[Programming Historian](http://programminghistorian.org/lessons/) - Generally well constructed collection of articles on specific programming tasks and environments relevant to Digital Humanities work.
-
-EdX, [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0#.U9sOzIBdVd8) - So much of programming derives from C.  So does Linux.  Not a coincidence… Come to the Dark Side, we have cookies.
-
-[Learn Regex the Hard Way](http://regex.learncodethehardway.org/book/) - Embrace the Old Ways, and learn the best search tool ever.
-
-[Learn X in Y Minutes](https://learnxinyminutes.com) - Fast, somewhat dense introductions to a variety of languages and related concepts. Possibly most useful for a quick review of past study.
 
 **Python**
 
@@ -50,7 +42,7 @@ Mozilla’s Introduction to [Firefox’ Dev Tools](https://developer.mozilla.org
 
 **CSS**
 
-[Beginner’s Guide to CSS3](http://www.hongkiat.com/blog/beginners-guide-to-css3/) - Does what it says on the tin. ;) 
+[Beginner’s Guide to CSS3](http://www.hongkiat.com/blog/beginners-guide-to-css3/) - Does what it says on the tin. ;)
 
 [Learn CSS Layout the Pedantic Way](http://book.mixu.net/css/)
 
@@ -86,7 +78,7 @@ WebMonkey, [Getting Started with jQuery](http://www.webmonkey.com/2010/02/get_st
 
 "[Why’s (Poignant) Guide to Ruby](http://poignant.guide/book/)" - Solid, unusual introduction to Ruby and programming
 
-[Learn Ruby the Hard Way](http://learnrubythehardway.org/book/) - Solid, if repetitive, introduction to Ruby. 
+[Learn Ruby the Hard Way](http://learnrubythehardway.org/book/) - Solid, if repetitive, introduction to Ruby.
 
 **Perl**
 
@@ -102,7 +94,7 @@ CodeAcademy, [PHP](https://www.codecademy.com/learn/php) - Useful introduction t
 
 [Stanford EdX Databases ](http://online.stanford.edu/course/databases-self-paced)- A good introduction to relational databases, with some short lessons about XML and NoSQL.  There is some math, but even the math-averse would benefit.
 
-Khan Academy, [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) - "...Or if you want something visual / that’s not too abysmal…" 
+Khan Academy, [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) - "...Or if you want something visual / that’s not too abysmal…"
 
 **R**
 
@@ -125,4 +117,3 @@ The Codeless Code: [Ancient Code](http://thecodelesscode.com/misc/ancient-code) 
 --
 
 More to Come!
-
