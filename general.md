@@ -16,6 +16,8 @@ EdX, [Introduction to Linux](https://www.edx.org/course/introduction-linux-linux
 
 [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) - Fantastic look at code and coding.
 
+[How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) - Nice set of video tutorials on working with GitHub.
+
 [GitHub Guides](https://guides.github.com/?utm_source=winback-newsletter&utm_medium=email&utm_campaign=winback-email&utm_content=guides) - Useful overview for various uses of GitHub.
 
 [Applescript](http://macosxautomation.com/applescript/firsttutorial/index.html) - One of those useful tools that lives in your Mac.  Worth looking at if you have want to automate things.

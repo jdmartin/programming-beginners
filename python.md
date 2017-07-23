@@ -15,6 +15,12 @@ Coursera, [Learn to Program: The Fundamentals](https://www.coursera.org/course/p
 
 [Want to learn Django? Start here.](https://elweb.co/want-to-learn-django-start-here/) - Nice little post with a collection of resources.
 
+MDN, [Django Web Framework](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Excellent overview of Django and working with Django.
+
 [How to think like a computer scientist](http://openbookproject.net/thinkcs/python/english2e/) - Useful overview of CS concepts using Python.
 
 [Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide) - From Python.org. A nice collection of resources.
+
+[Python Cheatsheet](https://www.pythonsheets.com) - Nice collection of code snippets for common, occasionally arcane tasks.
+
+Dev.to, [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy) - Handy overview of this useful scientific module.
