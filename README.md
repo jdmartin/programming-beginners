@@ -23,6 +23,8 @@ Jon (aka StandardHumanUnit)
 * [PHP](https://github.com/jdmartin/programming-beginners/blob/master/php.md)
 * [Databases](https://github.com/jdmartin/programming-beginners/blob/master/db.md)
 * [R](https://github.com/jdmartin/programming-beginners/blob/master/r.md)
+* [COBOL](https://github.com/jdmartin/programming-beginners/blob/cobol.md)
+* [BASIC](https://github.com/jdmartin/programming-beginners/blob/basic.md)
 * [For younger learners](https://github.com/jdmartin/programming-beginners/blob/master/younger.md)
 
 --

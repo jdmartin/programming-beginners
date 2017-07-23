@@ -11,3 +11,5 @@ EdX, [Introduction to Linux](https://www.edx.org/course/introduction-linux-linux
 [Learn Regex the Hard Way](http://regex.learncodethehardway.org/book/) - Embrace the Old Ways, and learn the best search tool ever.
 
 [Learn X in Y Minutes](https://learnxinyminutes.com) - Fast, somewhat dense introductions to a variety of languages and related concepts. Possibly most useful for a quick review of past study.
+
+[What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) - Fantastic look at code and coding.
