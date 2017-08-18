@@ -9,6 +9,8 @@ Coursera, [Learn to Program: The Fundamentals](https://www.coursera.org/course/p
 
 [Invent with Python](https://inventwithpython.com/) - Learn Python while making games. Whee!
 
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Nice look at using Python to automate a variety of mundane, but essential tasks.
+
 [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) - A tad repetitive, but effective.
 
 [The Django Book](https://djangobook.com) - Great resource for learning about this web framework.

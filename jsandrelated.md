@@ -43,3 +43,7 @@ MDN, [A re-introduction to JavaScript\(JS Tutorial\)](https://developer.mozilla.
 [Vic Ramon's Ember Tutorial](http://ember.vicramon.com) - A tutorial for learning the Ember JS Framework.
 
 [The Node Beginner Book](https://www.nodebeginner.org) - An introduction geared towards getting you to start building applications.
+
+[Modern JavaScript for Ancient Web Developers](https://trackchanges.postlight.com/modern-javascript-for-ancient-web-developers-58e7cae050f9) - Nice look at the challenges of jumping back into development in a JavaScript dominated world.
+
+[JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch) - Great guide to building a full JS stack.
