@@ -12,6 +12,8 @@ A list for learning about JavaScript, jQuery, and a host of related topics.
 
 [JS the Right Way](http://jstherightway.org) - "This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices."
 
+[Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Comprehensive, includes code examples.
+
 WebMonkey, [Getting Started with jQuery](http://www.webmonkey.com/2010/02/get_started_with_jquery/) - A very gentle introduction.
 
 [jQuery Learning Center](https://learn.jquery.com/) - A set of tutorials from the fine folks behind jQuery.
