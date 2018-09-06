@@ -7,3 +7,5 @@ A list of resources for learning about Databases (relational and non-relational)
 Khan Academy, [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql) - "...Or if you want something visual / that’s not too abysmal…"
 
 [SQL Teaching](https://www.sqlteaching.com) - A nice, hands-on introduction to working with SQL.
+
+[Select Star SQL](https://selectstarsql.com) - A solid, interactive SQL tutorial
